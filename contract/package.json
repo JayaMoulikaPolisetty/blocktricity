@@ -1,0 +1,16 @@
+{
+  "name": "blocktricity-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John S",
+  "license": "ISC",
+  "dependencies": {
+    "cbor": "^4.1.1",
+    "sawtooth-sdk": "^1.0.5"
+  }
+}
